@@ -1,6 +1,7 @@
 Rencana content Grow Up
 -Css
 -Php
- *framework php ( Codeighter)
+ *framework php (codeighter)
 -Js
-*framework JS ( Angular, React)
+*framework JS (viu, react, Angular)
+
